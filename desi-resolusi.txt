@@ -1,0 +1,4 @@
+Hallo, perkenalkan nama saya Desi dari Garut, saya fresh graduated dan akhir2 ini saya ingin belajar mengenai website menggunakan react.js
+
+Resolusi saya :
+- Membuat Website dengan menggunakan react.js dan backend node.js
